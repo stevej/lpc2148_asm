@@ -1,0 +1,7 @@
+An example of memory-mapped IO in assembly with the SparkFun UberBoard v2 using OS X.
+
+Our ARM-GCC toolchain is supplied by running the following "script":http://github.com/stevej/summon-arm-toolchain
+
+This is designed for use this with the Sparkfun USB Bootloader.
+
+c.sh is the build script.
